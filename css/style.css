@@ -5,9 +5,9 @@
     margin-top: 10px;
 }
 
-.box1
-.box2
-.box3
+.box1,
+.box2,
+.box3,
 .box4 {
     width: 100px;
     height: 100px;
